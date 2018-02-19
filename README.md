@@ -1,6 +1,6 @@
 # nextjs-linked-module
 
-Test case for [zeit/next.js#??](#).
+Test case for [zeit/next.js#3814](https://github.com/zeit/next.js/issues/3841).
 
 ## Project Setup
 
